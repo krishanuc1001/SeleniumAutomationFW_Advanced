@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/constants/FrameworkConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/driver/Driver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/driver/DriverManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/driver/DriverUI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/enums/WaitStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/enums/WaitStrategyEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/exceptions/custom/PropertyFileException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/fact/DriverFact.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/fact/DriverFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/fact/ExplicilitWaitFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/fact/ExplicitWaitFact.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/fact/ExplicitWaitFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/factories/DriverFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/factory/DriverFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/factory/ExplicitWaitFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/listeners/RetryFailedTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/pages/BasePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/pages/JDHomePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/pages/JDSearchResultPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/utilities/ExcelUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/utilities/JSONUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/utilities/PasswordManagement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/utilities/ReadProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/main/java/com/utilities/ScreenshotUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/test/java/com/desktopui/tests/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/test/java/com/desktopui/tests/JDHomePageTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/test/java/com/desktopui/tests/JDSearchResultPageTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/test/java/com/mobileui/tests/BaseTestMob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/test/java/com/mobileui/tests/JDHomePageMobTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/test/java/com/mobileui/tests/JDSearchResultPageMobTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/test/java/com/testUtilities/dataProvider/DataProviderUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/test/java/com/testUtilities/extentReporting/ExtentLogger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/test/java/com/testUtilities/extentReporting/ExtentReport.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/test/java/com/testUtilities/listeners/AnnotationTransformer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/test/java/com/testUtilities/listeners/ListenerClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/test/java/com/testUtilities/listeners/MethodInterceptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/test/java/com/testUtilities/listeners/RetryFailedTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/test/resources/config/GlobalConfig.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/test/resources/testNGDesktopSuite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SelJDEcomFW/src/test/resources/testNGMobSuite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/drivers/Driver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/tests/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prod-api/.dockerignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prod-api/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prod-api/Dockerfile.dev">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prod-api/Jenkinsfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prod-api/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prod-api/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prod-api/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/Jenkinsfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/deere/prodex/bffTest/GetAutoSuggestionsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/deere/prodex/bffTest/HealthCheckTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/deere/prodex/bffTests/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/deere/prodex/testUtilities/PropertyUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/deere/prodex/util/FrameworkConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/deere/prodex/util/PropertyUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/deere/search/bffTest/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/deere/search/bffTest/GetAutoSuggestionsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/deere/search/util/FrameworkConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/deere/search/util/PropertyUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/deere/search/util/ReadProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/jd/prodex/bffTest/GetAutoSuggestionsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/jd/prodex/bffTest/HealthCheckTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/jd/prodex/bffTests/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/jd/prodex/testUtilities/PropertyUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/jd/prodex/testUtilities/extentReporting/ExtentLogger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/jd/prodex/testUtilities/extentReporting/ExtentManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/jd/prodex/testUtilities/extentReporting/ExtentReport.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/jd/prodex/testUtilities/listeners/AnnotationTransformer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/jd/prodex/testUtilities/listeners/ListenerClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/jd/prodex/util/FrameworkConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/jd/prodex/util/PropertyUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/johndeere/prodex/bffTests/APIBaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/johndeere/prodex/bffTests/GetAutoSuggestionsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/java/com/johndeere/prodex/test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/resources/config.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/resources/testNGXMLRunner/testNGBFFSuite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/functionalTest/resources/testNGXMLRunner/testngBFFSuite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-prodex-bff/src/test/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-ui-automation/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-ui-automation/src/main/java/com/constants/FrameworkConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-ui-automation/src/main/java/com/utilities/FileUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-ui-automation/src/test/java/com/base/test/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-ui-automation/src/test/java/com/bff/tests/APIBaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-ui-automation/src/test/java/com/bff/tests/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-ui-automation/src/test/java/com/bff/tests/CreateUserTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-ui-automation/src/test/java/com/bff/tests/GetUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-ui-automation/src/test/java/com/testUtilities/extentReporting/ExtentReport.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-ui-automation/src/test/resources/BFFTestSuiteXMLs/testNGBFFSampleSuite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-ui-automation/src/test/resources/BffTestSuiteXMLs/testngBFFSampleSuite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-ui-automation/src/test/resources/UITestSuiteXMLs/testNGDesktopSuite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-ui-automation/src/test/resources/UITestSuiteXMLs/testNGMobSuite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-ui-automation/src/test/resources/config/GlobalConfig.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce-ui-automation/src/test/resources/config/config_bff.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="747710f5:/Users/krish.chakraborty/IdeaProjects/ecommerce-ui-automation:/Users/krish.chakraborty/IdeaProjects/ecommerce-ui-automation/src/test/java/com/testUtilities/extentReporting/ExtentReport.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="747710f5:/Users/krish.chakraborty/IdeaProjects/ecommerce-ui-automation:/Users/krish.chakraborty/IdeaProjects/ecommerce-ui-automation/src/test/resources/config/GlobalConfig.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

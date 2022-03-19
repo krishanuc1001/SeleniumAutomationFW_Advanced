@@ -1,0 +1,27 @@
+Important points to remember while Exception handling
+=====================================================
+
+1) Checked Exceptions (Compile-time exceptions) should be handled by either
+   - using try-catch block to throw a Runtime exception, or
+   - propagating the exception to the calling method
+
+2) If we purposefully decide to throw a Checked exception (Compile-time exception), it needs to be handled by using either
+   of below two methods
+   - We can catch the Compile time exception and re-throw it as another Compile-time/ Checked exception
+   - We can catch the Compile time exception and re-throw it as another Runtime/ Unchecked exception
+   - We can also create our own Custom exception class which can extend either the Exception class or the RuntimeException class
+     for handling Checked or Unchecked exceptions respectively, based on the needs.
+   
+3) Do not use Try-catch to handle a Checked/ Compile time exception without any reason. To handle a Checked/ Compile time
+   exception, it is better to catch and re-throw as an instance of Runtime exception, if we intend to stop the program.
+   
+4) Understand whether there is a need to combine all and display the exceptions together. Then we can return a false and compare to
+   throw an exception, instead of using multiple try-catch blocks. This can simplify the user experience.
+   
+5) If we throw Runtime exception in a Static block, program will not terminate because there is no Main method to propagate 
+   the exception to. So use the e.printStackTrace() and System.exit(0) to make the system throw exception and terminate gracefully.
+   
+THUMB-RULE:
+*** Exception should be actually more specific, clear and should not be ambiguous or misleading. ***
+
+

@@ -1,0 +1,7 @@
+1) Annotations does not support Inheritance. One Annotation cannot extend another Annotation.
+
+2) We cannot create an instance for annotation using new keyword.
+
+3) It does not hold any methods or constructors
+
+4) Annotations can only declare attributes of primitive type like - String, Class, Enum, String[], Class[], Enum[]  

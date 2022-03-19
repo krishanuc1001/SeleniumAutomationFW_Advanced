@@ -1,0 +1,13 @@
+com.annotations.custom
+com.assertj
+com.constants
+com.drivers
+com.enums
+com.exceptions.custom
+com.extentReporting
+com.factories
+com.listeners
+com.pages
+com.testng.dataprovider
+com.tests
+com.utils
