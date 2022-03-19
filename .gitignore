@@ -272,6 +272,13 @@ package-lock.json
 #####################
 testNGOutput
 
+target
+
+#####################
+# surefire-reports
+####################
+surefire-reports
+
 #####################
 # Extent Reports
 #####################
