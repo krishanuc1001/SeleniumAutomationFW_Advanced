@@ -272,6 +272,14 @@ package-lock.json
 #####################
 testNGOutput
 
+test-output
+
+.idea
+
+.settings
+
+.gitignore
+
 target
 
 #####################
